@@ -36,7 +36,7 @@ This is a professional networking platform where users can create profiles, conn
    npm install
    ```
 3. **Set Up Environment Variables**
-   Create a `.env` file in the root directory and configure necessary credentials (DB, API keys, etc.).
+   Create a `.env` file in the root directory and configure necessary credentials (DB, API keys, etc.)..
 
 4. **Run the Development Server**
    ```bash
