@@ -53,7 +53,7 @@ This is a professional networking platform where users can create profiles, conn
 5. Wait for review and merge approval.
 
 ## 📧 Contact
-For any queries or collaborations, reach out at `singhharsh381@gmail.com`.
+For any queries or collaborations, reach out at `singhharsh381@gmail.com` or `rudrapruthi@gmail.com`.
 
 ---
 ### 🚀 Happy Coding! 🎉
